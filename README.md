@@ -1,5 +1,5 @@
 # mergePDFsynthesize
-mergePDFsynthesize  PDF的合成
+mergePDFsynthesize  PDF的合成 PDF合并工具
 
 
 <br /><br />
